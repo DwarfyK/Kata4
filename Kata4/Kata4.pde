@@ -1,5 +1,11 @@
 //Hvis input er mindre end 2, return tomt array
+void setup(){
+  
+}
 
+void koerTest(){
+  
+}
 
 void test1(){
   String[] byListe = {"Paris", "Budapest", "Skopje", "Rotterdam", "Valencia", "Vancouver", "Amsterdam", "Vienna", "Sydney", "New York City", "London", "Bangkok", "Hong Kong", "Dubai", "Rome", "Istanbul"};
@@ -12,5 +18,6 @@ void test1(){
 }
 
 String[] search(String[]byListe,String tekst){
-  return null;
+  String[] resultat = {""};
+  return resultat;
 }
